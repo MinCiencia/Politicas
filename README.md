@@ -9,7 +9,7 @@ En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archi
 
 1. [Caracterización Participantes Mesas Recionales](Mesas_Regionales/Caracterizacion_Participantes_Mesas_Regionales): Archivo separado con comas que contiene por Macrozona y Región la fecha de realización de la mesa y la cantidad de participantes separados en las siguientes columnas: Participantes, Hombres, Mujeres, Academia, Industria, Sector Publico y Otro. Además, se entrega el promedio de edad y la cantidad de mesas por eje. 
 
-2. [Contenidos_Mesas_Regionales](Mesas_Regionales/Contenidos_Mesas_Regionales.csv):
+2. [Contenidos Mesas Regionales](Mesas_Regionales/Contenidos_Mesas_Regionales.csv):
 
 **3. Webinars**
 

@@ -19,3 +19,4 @@ En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archi
 1. [Lista de reproducción](https://bit.ly/WebinarsMincienciaIA): Lista de reproducción de YouTube que contiene los 15 Webinars.
 
 **4. Consulta Pública**
+Esta información será publicada una vez sea procesada posterior al cierre de la consulta. Para participar, pueden entrar en https://www.minciencia.gob.cl/consultaIA

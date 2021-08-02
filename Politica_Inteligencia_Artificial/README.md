@@ -9,7 +9,7 @@ En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archi
 
 1. [Caracterización Participantes Mesas Regionales](https://github.com/MinCiencia/Politicas/Politica_Inteligencia_Artificial/blob/main/Mesas_Regionales/Caracterizacion_Participantes_Mesas_Regionales.csv): Archivo separado con comas que contiene por Macrozona y Región la fecha de realización de la mesa y la cantidad de participantes separados en las siguientes columnas: Participantes, Hombres, Mujeres, Academia, Industria, Sector Publico y Otro. Además, se entrega el promedio de edad y la cantidad de mesas por eje. 
 
-2. [Contenidos Mesas Regionales Formato Estandar](https://github.com/MinCiencia/Politicas/Politica_Inteligencia_Artificial/blob/main/Mesas_Regionales/Contenidos_Mesas_Regionales.csv): Archivo separado por comas que contiene por Macrozona y Región la fecha de realización de casa mesa, el eje tratado, el número de mesa y la respuestas a las cuatro preguntas que se desarrollaron en las mesas regionales.
+2. [Contenidos Mesas Regionales Formato Estandar](https://github.com/MinCiencia/Politicas/blob/main/Politica_Inteligencia_Artificial/Mesas_Regionales/Contenidos_Mesas_Regionales.csv): Archivo separado por comas que contiene por Macrozona y Región la fecha de realización de casa mesa, el eje tratado, el número de mesa y la respuestas a las cuatro preguntas que se desarrollaron en las mesas regionales.
 
 3. [Contenidos Mesas Regionales PDF Murales](https://github.com/MinCiencia/Politicas/Politica_Inteligencia_Artificial/blob/main/Mesas_Regionales/PDF_Murales): Archivos en formato .PDF que las personas llenaron en forma de Post-Its virtuales en cada mesa regional realizada.
 

@@ -11,7 +11,7 @@ En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archi
 
 2. [Contenidos Mesas Regionales Formato Estandar](https://github.com/MinCiencia/Politicas/blob/main/Politica_Inteligencia_Artificial/Mesas_Regionales/Contenidos_Mesas_Regionales.csv): Archivo separado por comas que contiene por Macrozona y Región la fecha de realización de casa mesa, el eje tratado, el número de mesa y la respuestas a las cuatro preguntas que se desarrollaron en las mesas regionales.
 
-3. [Contenidos Mesas Regionales PDF Murales](https://github.com/MinCiencia/Politicas/Politica_Inteligencia_Artificial/blob/main/Mesas_Regionales/PDF_Murales): Archivos en formato .PDF que las personas llenaron en forma de Post-Its virtuales en cada mesa regional realizada.
+3. [Contenidos Mesas Regionales PDF Murales](https://github.com/MinCiencia/Politicas/tree/main/Politica_Inteligencia_Artificial/Mesas_Regionales/PDF_Murales): Archivos en formato .PDF que las personas llenaron en forma de Post-Its virtuales en cada mesa regional realizada.
 
 
 **3. Webinars**

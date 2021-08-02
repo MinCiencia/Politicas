@@ -7,7 +7,7 @@ En este repositorio se encontrarán disponibles los datos de las dos etapas del 
 **2. Mesas Regionales**
 En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archivos correspondientes a la caracterización de los participantes y los contenidos de las discusiones. Se disponibilizan los siguientes productos de datos:
 
-1. [Caracterización Participantes Mesas Regionales](https://github.com/MinCiencia/PoliticaIA/blob/main/Mesas_Regionales/Caracterizacion_Participantes_Mesas_Regionales.csv): Archivo separado con comas que contiene por Macrozona y Región la fecha de realización de la mesa y la cantidad de participantes separados en las siguientes columnas: Participantes, Hombres, Mujeres, Academia, Industria, Sector Publico y Otro. Además, se entrega el promedio de edad y la cantidad de mesas por eje. 
+1. [Caracterización Participantes Mesas Regionales](https://github.com/MinCiencia/Politicas/Politica_Inteligencia_Artificial/blob/main/Mesas_Regionales/Caracterizacion_Participantes_Mesas_Regionales.csv): Archivo separado con comas que contiene por Macrozona y Región la fecha de realización de la mesa y la cantidad de participantes separados en las siguientes columnas: Participantes, Hombres, Mujeres, Academia, Industria, Sector Publico y Otro. Además, se entrega el promedio de edad y la cantidad de mesas por eje. 
 
 2. [Contenidos Mesas Regionales Formato Estandar](Mesas_Regionales/Contenidos_Mesas_Regionales.csv): Archivo separado por comas que contiene por Macrozona y Región la fecha de realización de casa mesa, el eje tratado, el número de mesa y la respuestas a las cuatro preguntas que se desarrollaron en las mesas regionales.
 

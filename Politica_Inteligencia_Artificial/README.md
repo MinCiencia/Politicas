@@ -13,8 +13,6 @@ En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archi
 
 3. [Contenidos Mesas Regionales PDF Murales](https://github.com/MinCiencia/Politicas/tree/main/Politica_Inteligencia_Artificial/Mesas_Regionales/PDF_Murales): Archivos en formato .PDF que las personas llenaron en forma de Post-Its virtuales en cada mesa regional realizada.
 
-4[Contenidos aportados por personas naturales y jurídicas durante el proceso de consulta pública](Politica_Inteligencia_Artificial/Consulta_Publica/consulta pública.csv): Archivo separado por comas con las respuestas a la consulta.
-
 
 **3. Webinars**
 
@@ -24,4 +22,4 @@ En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archi
 Contiene los datos de la Consulta Pública del Borrador de la Política, que estuvo abierta hasta el 27 de enero de 2021. Se puede encontrar más información del proceso en https://www.minciencia.gob.cl/consultaIA 
 Se disponibilizan los siguientes datos:
 1. Datos cuantitativos: Archivo separado con comas que contiene, por cada proposición, el nivel de acuerdo, junto con datos demográficos.
-2. Datos cualitativos: Archivo separado por comas que contiene, por cada sección, los comentarios vertidos por los participantes.
+2. [Contenidos aportados por personas naturales y jurídicas durante el proceso de consulta pública](Politica_Inteligencia_Artificial/Consulta_Publica/consulta pública.csv): Archivo separado por comas con las respuestas a la consulta.

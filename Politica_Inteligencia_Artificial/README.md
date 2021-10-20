@@ -13,6 +13,8 @@ En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archi
 
 3. [Contenidos Mesas Regionales PDF Murales](https://github.com/MinCiencia/Politicas/tree/main/Politica_Inteligencia_Artificial/Mesas_Regionales/PDF_Murales): Archivos en formato .PDF que las personas llenaron en forma de Post-Its virtuales en cada mesa regional realizada.
 
+4[Contenidos aportados por personas naturales y jurídicas durante el proceso de consulta pública](Politica_Inteligencia_Artificial/Consulta_Publica/consulta pública.csv): Archivo separado por comas con las respuestas a la consulta.
+
 
 **3. Webinars**
 

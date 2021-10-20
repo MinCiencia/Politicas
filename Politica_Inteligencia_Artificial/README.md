@@ -22,5 +22,5 @@ En la carpeta [Mesas_Regionales](Mesas_Regionales) se pueden encontrar los archi
 
 Contiene los datos de la Consulta Pública del Borrador de la Política, que estuvo abierta hasta el 27 de enero de 2021. Se puede encontrar más información del proceso en https://www.minciencia.gob.cl/consultaIA 
 Se disponibilizan los siguientes datos:
-1. Datos cuantitativos: Archivo separado con comas que contiene, por cada proposición, el nivel de acuerdo, junto con datos demográficos.
+1.[Informe final de la consulta](https://github.com/MinCiencia/Politicas/tree/main/Politica_Inteligencia_Artificial/Consulta_Publica/informe_consulta_publica.pdf): Archivo .PDF que compagina el procesamiento por parte de la redacción de la política del proceso de consulta.
 2. [Contenidos aportados por personas naturales y jurídicas durante el proceso de consulta pública](https://github.com/MinCiencia/Politicas/tree/main/Politica_Inteligencia_Artificial/Consulta_Publica/consulta_publica.csv): Archivo separado por comas con las respuestas a la consulta.

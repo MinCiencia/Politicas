@@ -54,7 +54,7 @@ class traffic:
         print(" ")
 
         for repo_name in ur:
-
+            repo_name = 'Politicas'
             print("Getting views for %s" % repo_name)
             req = request.Request(
                 "%s/repos/%s/%s/traffic/views" % (base_url, user, repo_name), headers={"Authorization": "token %s" % self.token}
